@@ -1,8 +1,16 @@
 blessed==1.20.0
 editor==1.6.6
 inquirer==3.4.0
+pillow==11.2.1
+plyer==2.1.0
+PyQt6==6.9.0
+PyQt6-Qt6==6.9.0
+PyQt6-WebEngine==6.9.0
+PyQt6-WebEngine-Qt6==6.9.0
+PyQt6_sip==13.10.0
 readchar==4.2.1
 runs==1.2.2
+schedule==1.2.2
 six==1.17.0
 wcwidth==0.2.13
 xmod==1.8.1
