@@ -11,7 +11,7 @@ Sport Assistant is a Python-based desktop application that helps users manage an
   Generates structured diet and training programs tailored to the user's goal (e.g., weight loss or gain).
 
 - **Result Estimator**  
-  Provides weight change estimations over time based (3-6-9 months) on user input and program selection.
+  Provides weight change estimations over time based (3-6-12 months) on user input and program selection.
 
 - **Exercise Guide**  
   Shows how each exercise is performed using direct links to YouTube videos for correct form and technique.
